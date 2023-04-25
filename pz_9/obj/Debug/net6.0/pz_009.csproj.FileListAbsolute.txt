@@ -1,0 +1,15 @@
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\bin\Debug\net6.0\pz_009.exe
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\bin\Debug\net6.0\pz_009.deps.json
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\bin\Debug\net6.0\pz_009.runtimeconfig.json
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\bin\Debug\net6.0\pz_009.dll
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\bin\Debug\net6.0\pz_009.pdb
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\obj\Debug\net6.0\pz_009.csproj.AssemblyReference.cache
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\obj\Debug\net6.0\pz_009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\obj\Debug\net6.0\pz_009.AssemblyInfoInputs.cache
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\obj\Debug\net6.0\pz_009.AssemblyInfo.cs
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\obj\Debug\net6.0\pz_009.csproj.CoreCompileInputs.cache
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\obj\Debug\net6.0\pz_009.dll
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\obj\Debug\net6.0\refint\pz_009.dll
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\obj\Debug\net6.0\pz_009.pdb
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\obj\Debug\net6.0\pz_009.genruntimeconfig.cache
+C:\Users\fomin\Desktop\pz8\3pk2_Smirnov_Ivan-master\pz_009\obj\Debug\net6.0\ref\pz_009.dll
