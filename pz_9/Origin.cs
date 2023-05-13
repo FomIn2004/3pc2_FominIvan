@@ -1,9 +1,28 @@
-﻿namespace pz_009
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace pz_9
 {
-    internal class Origin
+
+    // Класс, который будем адаптировать
+    class Origin : IOrigin
     {
-        public void OriginDouble(double x) => Console.WriteLine($"{x:f10}");
-        public void OriginInt(int x) => Console.WriteLine(x);
-        public void OriginChar(char x) => Console.WriteLine(x);
+        public void OriginDouble(double d)
+        {
+            Console.WriteLine("Origin double: " + d);
+        }
+
+        public void OriginInt(int i)
+        {
+            Console.WriteLine("Origin int: " + i);
+        }
+
+        public void OriginChar(char c)
+        {
+            Console.WriteLine("Origin char: " + c);
+        }
     }
 }

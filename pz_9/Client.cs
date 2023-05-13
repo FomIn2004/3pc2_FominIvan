@@ -1,11 +1,38 @@
-﻿namespace pz_009
-{
-    internal class Client
-    {
-        IClientAdapter adapter = new Adapter();
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-        public void Show(char x) => adapter.ClientChar(x);
-        public void Show(double x) => adapter.ClientDouble(x);
-        public void Show(int x) => adapter.ClientInt(x);
+namespace pz_9
+{
+
+    // Класс, который будет использовать адаптированный класс
+    class Client
+    {
+        private readonly IOrigin _origin;
+
+        public Client(IOrigin origin)
+        {
+            _origin = origin;
+        }
+
+        public void ClientDouble(double d)
+        {
+            _origin.OriginDouble(d);
+        }
+
+        public void ClientInt(int i)
+        {
+            _origin.OriginInt(i * 2);
+        }
+
+        public void ClientChar(char c)
+        {
+            for (int i = 0; i < 5; i++)
+            {
+                _origin.OriginChar(c);
+            }
+        }
     }
 }
